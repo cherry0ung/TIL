@@ -24,4 +24,6 @@ Question 9: Advantage of using a pipeline in data processing?. (1 point)\
 Question 10: Function in scikit-learn for linear regression?. (1 point)\
 Question 11: Which Ridge parameter controls model complexity?. (1 point)\
 Question 12: Which feature shows the most variance in the boxplot?. (1 point)\
-Question 13: Key factors in second-order polynomial regression?. (2 points)
+Question 13: Key factors in second-order polynomial regression?. (2 points)\
+- Polynomial features introduce non-linearity, and Ridge regularization controls overfitting.
+
