@@ -1,5 +1,7 @@
 # Course 7 DA with Python - Final Assignment 
 
+[go to file](https://github.com/cherry0ung/TIL/blob/main/FINALAssignments/House_Sales_in_King_Count_USA.ipynb)
+
 Question 1: Upload your final assignment Jupyter Notebook. (10 points) \
 - 1.1: Display the data types of each column using dtypes. (1 point)\
 - 1.2: Drop the columns "id" and "Unnamed: 0" using drop(..., inplace=True) and then run describe(). (1 point)\
